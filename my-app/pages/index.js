@@ -15,8 +15,7 @@ export default function Home() {
           Next練習中
         </h1>
 
-        <h2>２回目はVercleにデプロイできるのか?
-        </h2>
+        <h2>２回目はVercleにデプロイできるのか?</h2>
       </main>
 
       <footer className={styles.footer}>
