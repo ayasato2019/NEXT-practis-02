@@ -24,7 +24,7 @@ export default function Home() {
           href="https://borderlesss.net/"
           target="_blank"
           rel="noopener noreferrer"
-        >https://borderlesss.net/
+        >borderlesss
         </a>
       </footer>
     </div>
